@@ -6,7 +6,7 @@ export const profile = {
     "I build scalable backend systems, AI-powered applications, and solve real-world problems through clean and efficient code.",
   about:
     "I'm a Software Engineer with 2 years of experience building production systems with Java, Spring Boot and AI technologies. I've delivered Twilio integrations and LLM-powered features (Claude API) for banking clients, including a 57% faster data sync, backed by a strong foundation in RESTful APIs, microservices, data structures and algorithms, and system design.",
-  resumeUrl: "/mayank_sardana_resume.pdf",
+  resumeUrl: "./mayank_sardana_resume.pdf",
   photo: "/hp.png",
   email: "mayanksardana4848@gmail.com",
   phone: "+91-8725803839",
@@ -29,7 +29,7 @@ export const highlights = [
 export const experience = [
   {
     company: "Adaptware Solutions",
-    logo: "/adaptware-logo.png",
+    logo: "./adaptware-logo.png",
     logoFill: true,
     role: "Software Engineer",
     period: "Jul 2025 – Present",
@@ -44,7 +44,7 @@ export const experience = [
   },
   {
     company: "EPAM Systems",
-    logo: "/epam.png",
+    logo: "./epam.png",
     logoFill: true,
     role: "Junior Software Engineer",
     period: "Jan 2025 – Jun 2025",
@@ -56,7 +56,7 @@ export const experience = [
   },
   {
     company: "Electra Wheeler",
-    logo: "/electra.png",
+    logo: "./electra.png",
     role: "Software Engineer",
     period: "Nov 2024 – May 2025",
     meta: "Part-time · Remote",
@@ -67,7 +67,7 @@ export const experience = [
   },
   {
     company: "Supertext",
-    logo: "/clay.png",
+    logo: "./clay.png",
     role: "Software Engineer Intern",
     period: "Jan 2024 – Jul 2024",
     meta: "Internship · Bengaluru, Karnataka · Remote",
