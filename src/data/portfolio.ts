@@ -7,7 +7,7 @@ export const profile = {
   about:
     "I'm a Software Engineer with 2 years of experience building production systems with Java, Spring Boot and AI technologies. I've delivered Twilio integrations and LLM-powered features (Claude API) for banking clients, including a 57% faster data sync, backed by a strong foundation in RESTful APIs, microservices, data structures and algorithms, and system design.",
   resumeUrl: "./mayank_sardana_resume.pdf",
-  photo: "/hp.png",
+  photo: "./hp.png",
   email: "mayanksardana4848@gmail.com",
   phone: "+91-8725803839",
   location: "Chandigarh, India",
